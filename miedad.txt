@@ -1,1 +1,3 @@
 Hola como estas, es un gusto conocerte, cuál es tu nombre?
+
+Me faltó agregar mi edad, tengo 24 años
